@@ -1,0 +1,19 @@
+/* Цвет основного текста #212121 */
+
+/* Цвет вторичного текста #757575 */
+
+/* Белый цвет #FFFFFF */
+
+/* Цвет акцент #2196F3 */
+
+/* Цвет вторичного фона #F5F4FA */
+
+/* Цвет в footer rgba(255, 255, 255, 0.6) */
+:root {
+    --title-text-color: #212121;
+    --primary-text-color: #757575;
+    --primary-white-color: #ffffff;
+    --dark-background-color: #2F303A;
+    
+
+}
